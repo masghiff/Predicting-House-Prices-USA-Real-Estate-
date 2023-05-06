@@ -7,6 +7,7 @@ The results of the analysis indicate that Random Forest has the best performance
 
 if you think this repository can serve as a useful reference for anyone interested in predicting house prices using machine learning techniques and can be a good starting point for further research in this area. you can up vote for me in kaggle notebook 
 
-LinkedIn : linkedin.com/in/ghifarikusuma/
-Dataset : kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
-Kaggle : kaggle.com/code/masghiff/predicting-housing-prices-eda-ml
+# LinkedIn : https://www.linkedin.com/in/ghifarikusuma/
+# Dataset : https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
+# Kaggle : https://www.kaggle.com/code/masghiff/predicting-housing-prices-eda-ml
+You can up vote for me in kaggle notebook
